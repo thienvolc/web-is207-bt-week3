@@ -1,0 +1,28 @@
+div .gioi-thieu-ban-than {
+    background-color: #F3FDE8;
+}
+
+div .thong-tin-lien-he {
+    background-size: 2rem;
+    background-image: url(./repeat-bg.png);
+    background-repeat: repeat-x;
+}
+
+h1 {
+    font-size: 24px;
+    text-shadow: 
+        -1px -1px 0 black,  
+        1px -1px 0 black,
+        -1px  1px 0 black,
+        1px  1px 0 black;
+}
+
+table, td, th {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+nav a, footer {
+    background-color: #d4f2f4;
+    color:  #0b0848;
+}
