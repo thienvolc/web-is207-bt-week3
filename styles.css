@@ -1,14 +1,14 @@
-div .gioi-thieu-ban-than {
+div .info_title {
     background-color: #F3FDE8;
 }
 
-div .thong-tin-lien-he {
+div .contact_title {
     background-size: 2rem;
-    background-image: url(./repeat-bg.png);
+    background-image: url(./bg-repeat_contact_title.png);
     background-repeat: repeat-x;
 }
 
-h1 {
+h1, h2, h3, h4 {
     font-size: 24px;
     text-shadow: 
         -1px -1px 0 black,  
